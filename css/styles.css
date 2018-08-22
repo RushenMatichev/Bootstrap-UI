@@ -10,6 +10,10 @@
 	min-height: 400px;
 }
 
+.row-content:nth-last-child(1) {
+	border-bottom: none;
+}
+
 .footer {
 	background-color: #D1C4E9;
 	margin: 0px auto;
